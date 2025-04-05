@@ -1,14 +1,25 @@
-# Snake Game in React
+# 🐍 Snake Game in React
 
-A fun and simple implementation of the classic Snake Game built with **ReactJS**.
+A fun, modern take on the classic **Snake Game**, built with **ReactJS**. Clean design, responsive controls, and addictive gameplay!
 
-## Features
+## 🎮 Features
 
--   **3 Difficulty Levels**: Choose from multiple speeds and challenge yourself!
--   **Mobile & Touch Responsive**: Designed to work seamlessly on touch devices.
--   **Simple & Clean UI**: Straightforward gameplay with minimalistic design.
+-   🚀 **3 Difficulty Levels**
+    Challenge yourself with Easy, Medium, or Hard speeds!
 
-## Live Demo
+-   📱 **Mobile & Touch Friendly**
+    Fully responsive design with swipe controls for mobile users.
 
-Check out the live demo here: [Snake Game React](https://snake-game-a008f.web.app/)
+-   🎨 **Minimalist UI**
+    Focused on gameplay with a clean and distraction-free interface.
+
+## 🔗 Live Demo
+
+👉 [Play Now on Firebase Hosting](https://snake-game-a008f.web.app/)
+
+## 🛠️ Built With
+
+-   ReactJS
+-   CSS Flexbox & Media Queries
+-   React Easy Swipe (for touch input)
 
