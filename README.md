@@ -10,21 +10,5 @@ A fun and simple implementation of the classic Snake Game built with **ReactJS**
 
 ## Live Demo
 
-Check out the live demo here: [Snake Game React](https://github.com/imunreal7/snake-game-react)
+Check out the live demo here: [Snake Game React](https://snake-game-a008f.web.app/)
 
-## Getting Started
-
-### Prerequisites
-
--   [Node.js](https://nodejs.org/) (version 12+ recommended)
--   [npm](https://www.npmjs.com/) (comes with Node.js)
-
-### Installation
-
-1. **Clone** the repository:
-
-    ```bash
-    git clone https://github.com/imunreal7/snake-game-react.git
-    ```
-
-# snake-game-react
